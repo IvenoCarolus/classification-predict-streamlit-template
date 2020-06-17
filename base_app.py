@@ -41,12 +41,19 @@ def main():
 
 	# Creates a main title and subheader on your page -
 	# these are static across all pages
-	st.title("Tweet Classifer")
-	st.subheader("Climate change tweet classification")
+	st.title("Tweet Classifer (Lemmatizers)")
+	#file_ = open("/home/rzwitch/Desktop/giphy.gif", "rb")
+	#contents = file_.read()
+	#data_url = base64.b64encode(contents).decode("utf-8")
+	#file_.close()
 
+	#st.markdown(
+	#	f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
+	#	unsafe_allow_html=True,
+	#)
 	# Creating sidebar with selection box -
 	# you can create multiple pages this way
-	options = ["Prediction", "Information"]
+	options = ["Home Page","Prediction", "Information"]
 	selection = st.sidebar.selectbox("Choose Option", options)
 
 	# Building out the "Information" page
@@ -61,6 +68,7 @@ def main():
 
 	# Building out the predication page
 	if selection == "Prediction":
+		st.subheader("Classifying the tweets by the topics: News, Pro and Anti Global Warming, and neutral")
 		st.info("Prediction with ML Models")
 		# Creating a text box for user input
 		tweet_text = st.text_area("Enter Text","Type Here")
@@ -77,6 +85,9 @@ def main():
 			# You can use a dictionary or similar structure to make this output
 			# more human interpretable.
 			st.success("Text Categorized as: {}".format(prediction))
+
+	if selection == "Home Page":
+		st.subheader("Below is a simple a run through of what the api has to offer!")
 
 # Required to let Streamlit instantiate our web app.  
 if __name__ == '__main__':
