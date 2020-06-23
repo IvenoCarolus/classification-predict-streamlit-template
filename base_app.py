@@ -97,7 +97,7 @@ def main():
 	if selection == "Home Page":
 		st.subheader("Below is a simple a run through of what the api has to offer!")
 		st.info('Tutorial on predicion section:')
-		file_ = open("resources\imgs\predicion_tutorial.gif", "rb")
+		file_ = open("resources/imgs/predicion_tutorial.gif", "rb")
 		contents = file_.read()
 		data_url = base64.b64encode(contents).decode("utf-8")
 		file_.close()
