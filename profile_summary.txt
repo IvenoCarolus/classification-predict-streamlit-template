@@ -1,0 +1,26 @@
+-->Please enter team details in corresponding blocks
+-->This text file helps keeping a modular design to the app
+
+#VINO_START
+Role: App development|Data Analytics|Team Co-ordinator
+#VINO_END
+
+#RO_START
+Role: Data Analytics(Lead)|Research
+#RO_END
+
+#TUMI_START
+Role:App Development|Data Analytics
+#TUMI_END
+
+#CONFY_START
+Role: Data Analytics|Research
+#CONFY_END
+
+#SIZWE_START
+Role: App Development|Data Analytics
+#SIZWE_END
+
+#KARABO_START
+Role: Data Analytics|Research
+#KARABO_END
