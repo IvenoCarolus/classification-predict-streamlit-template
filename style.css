@@ -1,0 +1,46 @@
+h1
+{
+    text-align:center;
+    bottom-margin: 500px;
+}
+
+.fa, .fas {
+    font-family: 'FontAwesome';
+}
+
+li:hover {
+    transform: translateY(-4px);
+    transition:0.3s;
+}
+
+.social-icon {
+  color: #fff;
+  background: #0072b1;
+  font-size:2em;
+  border-radius: 50%;
+  line-height: 1.0em;
+  width: 1.8em;
+  height: 1.8em;
+  text-align: top-left;
+  display: inline-block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.col-container {
+  display: table;
+  width: 100%;
+}
+.col-lg-4 {
+  display: table-cell;
+  padding: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+  .col-lg-4 {
+    display: block;
+    width: 100%;
+  }
+}
