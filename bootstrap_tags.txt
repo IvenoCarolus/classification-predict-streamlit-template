@@ -1,0 +1,126 @@
+#---
+
+#RAW_DATA
+<div class="card bg-info">
+<div class="card-header"><h3>$$</h3><br><p>&&</p></div>
+</div>
+#RAW_DATA_END
+
+#PROF
+<div class="container marketing">
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="&&" alt="Profile Pic" width="140" height="140">
+            <h3>Iveno Carolus</h3>
+            <p><ul><li>Team Co-ordinator</li><li>Data Analytics</li></ul></p>
+            <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
+            <ul class="list-inline mt-5">
+                <li class="list-inline-item"><a href='https://www.linkedin.com/in/iveno-carolus-413375159/'><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
+            </ul>
+            </div>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="$$" alt="Generic placeholder image" width="140" height="140">
+            <h3>Rohini Jagath</h3>
+            <p><li>Research</li><li>Data Analytics(Lead)</li></ul></p>
+            <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
+            <ul class="list-inline mt-5">
+                <li class="list-inline-item"><a href='https://www.linkedin.com/in/rohini-jagath-2492a156'><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
+            </ul>
+            </div>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="%%" alt="Generic placeholder image" width="140" height="140">
+            <h3>Confidence Ledwaba</h3>
+            <p><ul><li>Data Analytics</li><li>Research</li></ul></p>
+            <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
+            <ul class="list-inline mt-5">
+                <li class="list-inline-item"><a href=''><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></li>
+            </ul>
+            </div>
+          </div><!-- /.col-lg-4 -->
+	  <div class="col-lg-4">
+            <img class="rounded-circle" src="!!" alt="Generic placeholder image" width="140" height="140">
+            <h3>Tumisang</h3>
+            <p><ul><li>App Development</li><li>Data Analytics</li></ul></p>
+            <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
+            <ul class="list-inline mt-5">
+                <li class="list-inline-item"><a href='https://www.linkedin.com/in/tumisang-sentle-53100a1a5/'><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
+            </ul>
+            </div>
+          </div><!-- /.col-lg-4 -->
+	  <div class="col-lg-4">
+            <img class="rounded-circle" src="##" alt="Generic placeholder image" width="140" height="140">
+            <h3>Karabo</h3>
+            <p><ul><li>Data Analytics</li><li>Research</li></ul></p>
+            <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
+            <ul class="list-inline mt-5">
+                <li class="list-inline-item"><a href='https://www.linkedin.com/in/karabo-leso-191a01189/'><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
+            </ul>
+            </div>
+          </div><!-- /.col-lg-4 -->
+	  <div class="col-lg-4">
+            <img class="rounded-circle" src="^^" alt="Generic placeholder image" width="140" height="140">
+            <h3>Sizwe</h3>
+            <p><li>Research</li><li>Data Analytics</li></ul></p>
+            <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
+            <ul class="list-inline mt-5">
+                <li class="list-inline-item"><a href='https://www.linkedin.com/in/sizwe-ncube-a6b85b8a'><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
+            </ul>
+            </div>
+          </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
+</div>
+#PROF_END
+
+#NAV
+<header>
+<nav class="navbar navbar-expand-sm bg-info navbar-dark">
+<h1>Tweet Classification - Climate Change</h1>
+</nav>
+</header>
+#NAV_END
+
+#HOME_PAGE
+<body>
+<div class="container marketing">
+        <div class="row featurette",id="first_row">
+          <div class="col-md-7">
+            <h2 class="featurette-heading">Welcome to our machine learning app.<span class="text-muted">Let's get to predicting!</span></h2>
+            <p class="lead">The app uses custom machine learning models to classify tweets as Anti Climate Change,Neutral,Pro and News</p>
+          </div>
+          <div class="col-md-5">
+          <img style="width: 300px; height: 200px;" src="$$">
+          </div>
+        </div>
+        <hr />
+        <div class="row featurette",id="first_row">
+          <div class="col-md-7">
+            <h2 class="featurette-heading">A look at the data and useful insights</h2>
+            <p class="lead">Not only do we allow access to our smart machine learning models, we've got pages that'll provide useful insights on the twitter data</p>
+          </div>
+          <div class="col-md-5">
+            <img style="width: 350px; height: 350px;" src="&&">
+          </div>
+        </div>
+</div>
+</body>
+#HOME_PAGE_END
+
+#HEAD
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/carousel/">
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+#HEAD_END
+
+#---
