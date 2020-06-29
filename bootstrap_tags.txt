@@ -35,7 +35,7 @@
             <p><ul><li>Data Scientist</li><li>Research</li></ul></p>
             <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
             <ul class="list-inline mt-5">
-                <li class="list-inline-item"><a href=''><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></li>
+                <li class="list-inline-item"><a href='https://www.linkedin.com/mwlite/in/confidence-ledwaba-1ba1a7a7'><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></li>
             </ul>
             </div>
           </div><!-- /.col-lg-4 -->
