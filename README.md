@@ -1,4 +1,4 @@
-# Streamlit-based Web Application
+# Streamlit-based Web Application - TEAM MX1 - THE LEMMATIZERS
 #### EXPLORE Data Science Academy Classification Predict
 
 ## 1) Overview
