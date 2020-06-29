@@ -385,7 +385,7 @@ def main():
 		#st.info("Classifying your custom text with our ML Models")
 		bootstrap_block_1 = RAW_DATA
 		bootstrap_block_1 = bootstrap_block_1.replace('$$', 'Classifying Custom Text:')
-		bootstrap_block_1 = bootstrap_block_1.replace('&&', "Below is a text box where you can enter any text and choose any of our three \ "
+		bootstrap_block_1 = bootstrap_block_1.replace('&&', "Below is a text box where you can enter any text and choose any of our three "
 															"classifcations models to classify the custom text you've entered.")
 		st.markdown(bootstrap_block_1, unsafe_allow_html=True)
 		# Creating a text box for user input
