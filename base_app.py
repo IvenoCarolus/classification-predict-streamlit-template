@@ -205,7 +205,6 @@ def main():
 	options = ["Home Page","Prediction", "Data and Insights",'Meet Our Team']
 	selection = st.sidebar.selectbox("Choose Option", options)
 	bootstrap_block = ''
-	print(names)
 	# Building out the "Information" page
 	if selection == "Data and Insights":
 		st.markdown("Below are some visuals, insights gained from visuals and raw data")
