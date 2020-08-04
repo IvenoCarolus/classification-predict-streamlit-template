@@ -7,7 +7,7 @@
 #### *Karabo Leso - Data Science*
 #### *Tumisang Sentle - App Development*
 
-#### EXPLORE Data Science Academy Classification Predict
+#### EXPLORE Data Science Academy Classification Project
 
 ## 1) Overview
 
