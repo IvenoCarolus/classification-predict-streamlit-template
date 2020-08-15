@@ -1,11 +1,11 @@
 # Streamlit-based Web Application - TEAM MX1 - THE LEMMATIZERS
 ## **Team Members**
-#### *Iveno Carolus*
-#### *Sizwe Ncube*
-#### *Confidence Ledwaba*
-#### *Rohini Jagath*
-#### *Karabo Leso*
-#### *Tumisang Sentle*
+#### *Iveno Carolus (Team Lead, App Developer, Data Scientist)*
+#### *Sizwe Ncube (Data Scientist)*
+#### *Confidence Ledwaba(Data Scientist)*
+#### *Rohini Jagath(Lead Data Scientist, Creative Director)*
+#### *Karabo Leso(Data Scientist)*
+#### *Tumisang Sentle (Data Scientist, App Developer)*
 
 #### EXPLORE Data Science Academy Classification Predict
 
